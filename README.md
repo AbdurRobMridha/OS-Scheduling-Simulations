@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 - **Issues**: Open a GitHub issue for bugs or suggestions.
-- **Email**: [abdur.rob.mridha@example.com](mailto:abdurobrob5411@gmail.com) (replace with actual).
+- **Email**: [abdur.rob.mridha@example.com](mailto:abdurobrob5411@gmail.com) .
 
 
 ---
